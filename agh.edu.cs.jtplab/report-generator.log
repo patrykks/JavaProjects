@@ -1,0 +1,48 @@
+2015-07-03 11:45:52,003 DEBUG [main] zad1.BST (BST.java:48) - -----------------------InOrder-----------------------
+2015-07-03 11:45:52,005 DEBUG [main] zad1.BST (BST.java:56) - 1, 
+2015-07-03 11:45:52,005 DEBUG [main] zad1.BST (BST.java:56) - 2, 
+2015-07-03 11:45:52,005 DEBUG [main] zad1.BST (BST.java:56) - 4, 
+2015-07-03 11:45:52,005 DEBUG [main] zad1.BST (BST.java:56) - 5, 
+2015-07-03 11:45:52,005 DEBUG [main] zad1.BST (BST.java:56) - 6, 
+2015-07-03 11:45:52,005 DEBUG [main] zad1.BST (BST.java:56) - 7, 
+2015-07-03 11:45:52,005 DEBUG [main] zad1.BST (BST.java:50) - 
+2015-07-03 11:45:52,006 DEBUG [main] zad1.BST (BST.java:64) - -----------------------PreOrder-----------------------
+2015-07-03 11:45:52,006 DEBUG [main] zad1.BST (BST.java:72) - 5, 
+2015-07-03 11:45:52,006 DEBUG [main] zad1.BST (BST.java:72) - 2, 
+2015-07-03 11:45:52,006 DEBUG [main] zad1.BST (BST.java:72) - 1, 
+2015-07-03 11:45:52,006 DEBUG [main] zad1.BST (BST.java:72) - 4, 
+2015-07-03 11:45:52,006 DEBUG [main] zad1.BST (BST.java:72) - 6, 
+2015-07-03 11:45:52,006 DEBUG [main] zad1.BST (BST.java:72) - 7, 
+2015-07-03 11:45:52,006 DEBUG [main] zad1.BST (BST.java:66) - 
+2015-07-03 11:45:52,006 DEBUG [main] zad1.BST (BST.java:81) - -----------------------PostOrder-----------------------
+2015-07-03 11:45:52,006 DEBUG [main] zad1.BST (BST.java:72) - 2, 
+2015-07-03 11:45:52,006 DEBUG [main] zad1.BST (BST.java:72) - 1, 
+2015-07-03 11:45:52,007 DEBUG [main] zad1.BST (BST.java:72) - 4, 
+2015-07-03 11:45:52,007 DEBUG [main] zad1.BST (BST.java:72) - 6, 
+2015-07-03 11:45:52,007 DEBUG [main] zad1.BST (BST.java:72) - 7, 
+2015-07-03 11:45:52,007 DEBUG [main] zad1.BST (BST.java:90) - 5, 
+2015-07-03 11:45:52,007 DEBUG [main] zad1.BST (BST.java:83) - 
+2015-07-03 11:45:52,007 DEBUG [main] zad1.BST (BST.java:48) - -----------------------InOrder-----------------------
+2015-07-03 11:45:52,007 DEBUG [main] zad1.BST (BST.java:56) - 1, 
+2015-07-03 11:45:52,007 DEBUG [main] zad1.BST (BST.java:56) - 2, 
+2015-07-03 11:45:52,007 DEBUG [main] zad1.BST (BST.java:56) - 4, 
+2015-07-03 11:45:52,007 DEBUG [main] zad1.BST (BST.java:56) - 5, 
+2015-07-03 11:45:52,007 DEBUG [main] zad1.BST (BST.java:56) - 6, 
+2015-07-03 11:45:52,008 DEBUG [main] zad1.BST (BST.java:56) - 7, 
+2015-07-03 11:45:52,008 DEBUG [main] zad1.BST (BST.java:50) - 
+2015-07-03 11:45:52,008 DEBUG [main] zad1.BST (BST.java:64) - -----------------------PreOrder-----------------------
+2015-07-03 11:45:52,008 DEBUG [main] zad1.BST (BST.java:72) - 5, 
+2015-07-03 11:45:52,008 DEBUG [main] zad1.BST (BST.java:72) - 2, 
+2015-07-03 11:45:52,008 DEBUG [main] zad1.BST (BST.java:72) - 1, 
+2015-07-03 11:45:52,008 DEBUG [main] zad1.BST (BST.java:72) - 4, 
+2015-07-03 11:45:52,008 DEBUG [main] zad1.BST (BST.java:72) - 6, 
+2015-07-03 11:45:52,008 DEBUG [main] zad1.BST (BST.java:72) - 7, 
+2015-07-03 11:45:52,008 DEBUG [main] zad1.BST (BST.java:66) - 
+2015-07-03 11:45:52,008 DEBUG [main] zad1.BST (BST.java:81) - -----------------------PostOrder-----------------------
+2015-07-03 11:45:52,008 DEBUG [main] zad1.BST (BST.java:72) - 2, 
+2015-07-03 11:45:52,009 DEBUG [main] zad1.BST (BST.java:72) - 1, 
+2015-07-03 11:45:52,009 DEBUG [main] zad1.BST (BST.java:72) - 4, 
+2015-07-03 11:45:52,009 DEBUG [main] zad1.BST (BST.java:72) - 6, 
+2015-07-03 11:45:52,009 DEBUG [main] zad1.BST (BST.java:72) - 7, 
+2015-07-03 11:45:52,009 DEBUG [main] zad1.BST (BST.java:90) - 5, 
+2015-07-03 11:45:52,009 DEBUG [main] zad1.BST (BST.java:83) - 
